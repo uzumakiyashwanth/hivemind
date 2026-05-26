@@ -46,7 +46,7 @@ function Register() {
           transition={{ duration: 0.4, ease: "easeOut" }}
           className="w-full max-w-[420px] bg-black/70 border border-white/10 p-10 rounded-[28px] shadow-[0_24px_80px_rgba(0,0,0,0.6)]"
         >
-          <h1 className="text-4xl font-bold bg-linear-to-r from-cyan-200 via-cyan-300 to-cyan-400 bg-clip-text text-transparent text-center">
+          <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-200 via-cyan-300 to-cyan-400 bg-clip-text text-transparent text-center">
             Create Account
           </h1>
 
