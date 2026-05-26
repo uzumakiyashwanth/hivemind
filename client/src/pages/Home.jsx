@@ -6,7 +6,7 @@ import { io } from "socket.io-client";
 
 import { motion } from "framer-motion";
 
-const socket = io("http://localhost:8000");
+const socket = io("https://your-backend-name.onrender.com");
 
 function Home() {
 
