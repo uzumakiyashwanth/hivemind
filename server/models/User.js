@@ -1,4 +1,4 @@
-const User = require("./temp");
+const User = require("./User");
 const mongoose = require("mongoose");
 
 const userSchema = new mongoose.Schema({
