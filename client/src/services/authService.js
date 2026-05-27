@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://hivemind-1.onrender.com/api/auth/login";
+const API_URL = "https://hivemind-5sav.onrender.com/api/auth";
 
 export const registerUser = async (userData) => {
 
