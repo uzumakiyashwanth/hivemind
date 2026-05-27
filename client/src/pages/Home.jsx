@@ -6,7 +6,7 @@ import { io } from "socket.io-client";
 
 import { motion } from "framer-motion";
 
-const socket = io("https://hivemind-1.onrender.com");
+const socket = io("https://hivemind-5sav.onrender.com");
 
 function Home() {
 
